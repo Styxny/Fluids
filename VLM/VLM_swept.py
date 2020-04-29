@@ -2,7 +2,7 @@
 """
 Created on Fri Feb  9 08:55:12 2018
 
-@author: jstickney7
+@author: Styxny
 
 written in Python 3
 
